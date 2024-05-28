@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://github.com/SocialIngat/.github/blob/master/profile/banner.png)
 
 # Social Ingat
 Spam Alert System for Incoming Social Media Messages
